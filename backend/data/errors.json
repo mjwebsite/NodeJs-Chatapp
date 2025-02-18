@@ -1,0 +1,156 @@
+{
+    "request": [
+        {
+            "errorCode": "JsonWebTokenError",
+            "description": "Can't provide acess. Please login",
+            "type": "E"
+        },
+        {
+            "errorCode": "InvalidEmail",
+            "description": "Email not Found",
+            "type": "E"
+        },
+        {
+            "errorCode": "EmailMandatory",
+            "description": "Please Enter valid Email.",
+            "type": "E"
+        },
+        {
+            "errorCode": "EmailExists",
+            "description": "Email already exists, Please try to Login.",
+            "type": "E"
+        },
+        {
+            "errorCode": "CreationFailed",
+            "description": "User Creation Faied, Please Try again.",
+            "type": "E"
+        },
+        {
+            "errorCode": "InvalidCredentials",
+            "description": "Invalid Username or Password.!",
+            "type": "E"
+        },
+        {
+            "errorCode": "CredentialsMandatory",
+            "description": "Please Enter Email and Passowrd.!",
+            "type": "E"
+        },
+        {
+            "errorCode": "FailedToCreate",
+            "description": "Record Creation Failed, Please try again.",
+            "type": "E"
+        },
+        {
+            "errorCode": "DetailsMandatory",
+            "description": "Please Enter valid Data.",
+            "type": "E"
+        },
+        {
+            "errorCode": "EmptyResult",
+            "description": "There No records as such.",
+            "type": "E"
+        }
+    ],
+    "responce": [
+        {
+            "id": "35d37efd-671b-4ffe-af25-61d051b70631",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "JsonWebTokenError",
+            "description": "Can't provide acess. Please login",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "319bf817-371e-4feb-9dc0-50cdd07eddba",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "InvalidEmail",
+            "description": "Email not Found",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "536e921c-7e75-433d-9741-9db1d99bf80a",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "EmailMandatory",
+            "description": "Please Enter valid Email.",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "07f7ea64-570d-4db6-809f-25f4c918fe54",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "EmailExists",
+            "description": "Email already exists, Please try to Login.",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "655426e6-20ae-4e53-b551-d729e68dfa44",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "CreationFailed",
+            "description": "User Creation Faied, Please Try again.",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "da7c611c-1b56-47d3-aff5-86d6b22608cb",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "InvalidCredentials",
+            "description": "Invalid Username or Password.!",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "233cb5d0-2045-4b66-a41a-851784106f36",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "CredentialsMandatory",
+            "description": "Please Enter Email and Passowrd.!",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "93a7cfbf-bdb7-46ed-82b1-9642b518176f",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "FailedToCreate",
+            "description": "Record Creation Failed, Please try again.",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "937b9a95-f78a-4910-8c46-5c94586827fa",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "DetailsMandatory",
+            "description": "Please Enter valid Data.",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        },
+        {
+            "id": "55462539-6b61-4cf9-9e5a-ec4f95a6d6cc",
+            "language": "English",
+            "createdBy": "Admin",
+            "errorCode": "EmptyResult",
+            "description": "There No records as such.",
+            "type": "E",
+            "createdAt": "2024-11-10T07:48:50.433Z",
+            "updatedAt": "2024-11-10T07:48:50.433Z"
+        }
+    ]
+}

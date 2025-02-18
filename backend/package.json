@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+		"start": "node app.js",
+		"build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sequelize/postgres": "^7.0.0-alpha.41",
+    "bcryptjs": "^2.4.3",
+    "consolidate": "^1.0.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-async-handler": "^1.2.0",
+    "express-session": "^1.18.0",
+    "hbs": "^4.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "pg": "^8.12.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2",
+    "socket.io": "^4.7.5",
+    "swig": "^1.4.2"
+  }
+}

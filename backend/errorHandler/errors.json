@@ -1,0 +1,42 @@
+{
+    "JsonWebTokenError":{
+        " description":"Can't provide acess. Please login",
+        "code":401
+    },
+    "InvalidEmail":{
+        " description":"Email not Found",
+        "code":345
+    },
+    "EmailMandatory":{
+        " description":"Please Enter valid Email.",
+        "code":245
+    },
+    "EmailExists":{
+        " description":"Email already exists, Please try to Login.",
+        "code":678
+    },
+    "CreationFailed":{
+        " description":"User Creation Faied, Please Try again.",
+        "code":657
+    },
+    "InvalidCredentials":{
+        " description":"Invalid Username or Password.!",
+        "code":607
+    },
+    "CredentialsMandatory":{
+        " description":"Please Enter Email and Passowrd.!",
+        "code":245
+    },
+    "FailedToCreate":{
+        " description":"Record Creation Failed, Please try again.",
+        "code":400
+    },
+    "DetailsMandatory":{
+        " description":"Please Enter valid Data.",
+        "code":400
+    },
+    "EmptyResult":{
+        " description":"There No records as such.",
+        "code":400
+    }
+}
